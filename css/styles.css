@@ -1,0 +1,21 @@
+/* My Awesome Styles */
+
+/* Diagnostic Styling 
+  * Change Background Color
+  * Outline Elements
+*/
+
+* {
+}
+
+/* Doodle Stage */
+#stage {
+  background: url("https://thumbs.dreamstime.com/b/farm-visiting-digital-painted-landscape-agriculture-plants-farms-42744911.jpg");
+  height: 300px;
+  width: 600px;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+}
